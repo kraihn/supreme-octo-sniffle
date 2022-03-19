@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
   "devDependencies": {
     "ts-node": "^10.7.0",
